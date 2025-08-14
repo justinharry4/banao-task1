@@ -1,0 +1,13 @@
+# virtual environment
+task1_env/
+
+# database
+db.sqlite3
+
+# media uploads
+media/
+
+# bytecode files
+__pycache__
+*.py[cod]
+*$py.class
